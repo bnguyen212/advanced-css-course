@@ -1,10 +1,11 @@
-Natours/after-S05
-Natours/final-after-S06
-
-Nexter/final
-
-Trillo/final
-
+after-S05/
+final-after-S06/
+final/
 node_modules/
 
 .DS_Store
+
+README.md
+vscode-setup.md
+npm-fixes.md
+slides-students-C04.pdf
